@@ -12,7 +12,8 @@ BSc Software Engineering experiences at the University of Padua.
 
 ### MyTester  
 **ListAdapterTester:** Upcoming  
-**MapAdapterTester:** Upcoming
+**MapAdapterTester:** Upcoming  
+**TestRunner:** Upcoming
 
 ### Test Cases & Test Suites  
 **ListAdapter:** Upcoming  
