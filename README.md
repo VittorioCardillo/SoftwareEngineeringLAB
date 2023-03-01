@@ -7,8 +7,8 @@ BSc Software Engineering experiences at the University of Padua.
 ## Shortcut
 
 ### MyAdapter  
-**ListAdapter:** Upcoming  
-**MapAdapter:** Upcoming
+**ListAdapter:** [ListAdapter.java](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/myAdapter/ListAdapter.java)  
+**MapAdapter:** [MapAdapter.java](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/myAdapter/MapAdapter.java)
 
 ### MyTester  
 **ListAdapterTester:** Upcoming  
