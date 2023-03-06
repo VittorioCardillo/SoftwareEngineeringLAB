@@ -11,9 +11,9 @@ BSc Software Engineering experiences at the University of Padua.
 **MapAdapter:** [MapAdapter.java](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/myAdapter/MapAdapter.java)
 
 ### MyTester  
-**ListAdapterTester:** Upcoming  
-**MapAdapterTester:** Upcoming  
-**TestRunner:** Upcoming
+**ListAdapterTester:** [ListAdapterTester.java](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/myTest/ListAdapterTester.java)   
+**MapAdapterTester:** [MapAdapterTester.java](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/myTest/MapAdapterTester.java)  
+**TestRunner:** [TestRunner.java](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/myTest/TestRunner.java)
 
 ### Test Cases & Test Suites  
 **ListAdapter:** Upcoming  
