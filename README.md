@@ -16,7 +16,7 @@ BSc Software Engineering experiences at the University of Padua.
 **TestRunner:** [TestRunner.java](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/myTest/TestRunner.java)
 
 ### Test Cases & Test Suites  
-**ListAdapter:** Upcoming  
+**ListAdapter:** [ListAdapter.pdf](https://github.com/VittorioCardillo/SoftwareEngineeringLAB/blob/main/Test%20Suites%2C%20Cases%20-%20ListAdapterTester.pdf)   
 **MapAdapter:** Upcoming
 
 ### Javadoc
